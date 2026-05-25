@@ -1,0 +1,28 @@
+Print list of S3 buckets: 
+
+2026-05-25 10:31:18 thiwanka-bucket-1
+2026-05-25 10:31:38 thiwanka-bucket-2
+2026-05-25 10:31:44 thiwanka-bucket-3
+
+Print list of EC2 Instances: 
+
+-------------------------------------
+|         DescribeInstances         |
++--------------+------------+-------+
+|      AZ      | Instance   | Name  |
++--------------+------------+-------+
+|  eu-north-1b |  None      |  None |
++--------------+------------+-------+
+
+Print list of Lambda Functions: 
+
+{
+    "Functions": []
+}
+
+Print list of IAM Users: 
+
+{
+    "Users": []
+}
+
