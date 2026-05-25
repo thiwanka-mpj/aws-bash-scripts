@@ -123,4 +123,4 @@ Example — run every day at 8:00 AM:
 ## 👤 Author
 
 **Janith Thiwanka**  
-Version: v1.0 — May 25, 2026
+Version: v1.0 - May 25, 2026
