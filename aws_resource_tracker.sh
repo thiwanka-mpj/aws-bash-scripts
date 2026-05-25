@@ -39,7 +39,7 @@ echo
 echo "Print list of IAM Users:"
 aws iam list-users --query 'Users[*].UserName' --output text
 
-} >> resourceTracker
+} > resourceTracker
 
 
 
