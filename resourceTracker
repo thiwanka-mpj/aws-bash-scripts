@@ -1,28 +1,23 @@
-Print list of S3 buckets: 
+==========================================
+AWS Resource Report - Mon May 25 14:57:14 UTC 2026
+==========================================
+Print list of S3 buckets:
 
 2026-05-25 10:31:18 thiwanka-bucket-1
 2026-05-25 10:31:38 thiwanka-bucket-2
 2026-05-25 10:31:44 thiwanka-bucket-3
 
-Print list of EC2 Instances: 
+Print list of EC2 Instances:
 
--------------------------------------
-|         DescribeInstances         |
-+--------------+------------+-------+
-|      AZ      | Instance   | Name  |
-+--------------+------------+-------+
-|  eu-north-1b |  None      |  None |
-+--------------+------------+-------+
+--------------------------------------------------
+|                DescribeInstances               |
++-------------+-----------------------+----------+
+|     AZ      |       Instance        |  State   |
++-------------+-----------------------+----------+
+|  us-east-1a |  i-0f7ccdb0a30dd0901  |  running |
++-------------+-----------------------+----------+
 
-Print list of Lambda Functions: 
+Print list of Lambda Functions:
 
-{
-    "Functions": []
-}
 
-Print list of IAM Users: 
-
-{
-    "Users": []
-}
-
+Print list of IAM Users:
